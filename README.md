@@ -1,6 +1,6 @@
 # Wilson-s-Theorem-Extension
 
-### Theorem (Final Extended Wilson-Set Theorem)
+### Theorem (Extended Wilson-Set Theorem)
 
 Let \( n \) be a positive integer, and let \( S = \{1, 2, \ldots, n-1\} \).
 
